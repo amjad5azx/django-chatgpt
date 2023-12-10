@@ -47,5 +47,22 @@
 
 ![Alt text](image-12.png)
 
+<h1>By using Bash File</h1>
+<h2>Step 1: Creating bash file for automation</h2>
+<p>Following are some snapshots for creating bash file</p>
+
+![Alt text](image-13.png)
+
+![Alt text](image-14.png)
+
+![Alt text](image-15.png)
+
+<h2>Step 2: Running bash file</h2>
+
+![Alt text](image-16.png)
+
+<h2>Result</h2>
+
+![Alt text](image-17.png)
 
 
